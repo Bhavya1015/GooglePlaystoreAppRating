@@ -18,7 +18,7 @@ Data set Information: Web scraped data of 10k Play Store apps for analyzing the 
 
 <h3>Attribute Information:</h3>
 
-<he>SL.No. Attribute-- Description</h3>
+<h3>SL.No. Attribute-- Description</h3>
 
 1. App-- Application name
 
