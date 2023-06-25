@@ -16,7 +16,7 @@ EDA & Data Preprocessing on Google App Store Rating Dataset
 
 Data set Information: Web scraped data of 10k Play Store apps for analyzing the Android market. Each app (row) has values for category, rating, size, and more.
 
-<he>Attribute Information:</he>
+<h3>Attribute Information:</h3>
 
 <he>SL.No. Attribute-- Description</h3>
 
