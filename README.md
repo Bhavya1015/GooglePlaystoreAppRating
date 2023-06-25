@@ -12,7 +12,7 @@ Context:
 
 - From the collected apps data and user ratings from the app stores, let's try to extract insightful information.
 
-Objective: The Goal is to explore the data and pre-process it for future use in any predictive analytics study.
+<h3>Objective:</h3> The Goal is to explore the data and pre-process it for future use in any predictive analytics study.
 
 Data set Information: Web scraped data of 10k Play Store apps for analyzing the Android market. Each app (row) has values for category, rating, size, and more.
 
