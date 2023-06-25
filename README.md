@@ -2,9 +2,9 @@
 
 EDA & Data Preprocessing on Google App Store Rating Dataset
 
-Domain: Mobile device apps
+<he>Domain:</h3> Mobile device apps
 
-Context: 
+<h3>Context:</h3>
 
 - The Play Store apps data has enormous potential to drive app-making businesses to success. However, many apps are being developed every single day and only a few of them become profitable. 
 
@@ -16,9 +16,9 @@ Context:
 
 Data set Information: Web scraped data of 10k Play Store apps for analyzing the Android market. Each app (row) has values for category, rating, size, and more.
 
-Attribute Information:
+<he>Attribute Information:</he>
 
-SL.No. Attribute-- Description
+<he>SL.No. Attribute-- Description</h3>
 
 1. App-- Application name
 
